@@ -17,4 +17,4 @@ score. How the compatibility score is generated is up to you. Help us make the r
 3. Ensure scores.json has no data/code written inside
 4. Use appropriate command in terminal (I use gitbash) to run compatibility.js
     - Command in gitbash: node compatibility.js
-    - Then check the check scores.json to see the file is populated with compatibility scores
+    - Then check the check scores.json to see the file is populated with compatibility scores for each applicant
